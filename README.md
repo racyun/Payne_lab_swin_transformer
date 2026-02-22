@@ -12,7 +12,7 @@ Due to the dense, information-rich nature of the images, as well as scarcity of 
 
 Both components draw from the same data directory, titled "carbonate_imgs_and_masks".
 
-Note on reproducibility (Colab): All work in this repository was developed and run in Google Colab, so I’ve linked the Colab notebooks directly below (rather than converting everything into local scripts and risking breaking the workflow). I’ve also included the corresponding .py versions in the repo for convenience. To whom it may concern—if you download the sample data in this repo and upload it to your own Google Drive, the notebook paths are already set up so you can run everything end-to-end in Colab.
+Note on reproducibility (Colab): All work in this repository was developed and run in Google Colab, so I’ve linked the Colab notebooks directly below (rather than converting everything into local scripts and risking breaking the workflow). I’ve also included the corresponding .py versions in the repo for convenience. **To whom it may concern—if you download the sample data in this repo and upload it to your own Google Drive, the notebook paths are already set up so you can run everything end-to-end in Colab.**
 
-Google Drive notebooks and data directory: https://drive.google.com/drive/folders/1d1LSprCOvKxIvT1lskmYvRLjiXjL2ho-?usp=sharing
+**Google Drive notebooks and data directory: https://drive.google.com/drive/folders/1d1LSprCOvKxIvT1lskmYvRLjiXjL2ho-?usp=sharing**
 
