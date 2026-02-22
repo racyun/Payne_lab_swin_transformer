@@ -1,0 +1,77 @@
+{
+  "Bivalves": [
+    1,
+    1,
+    1
+  ],
+  "Micrite": [
+    2,
+    2,
+    2
+  ],
+  "Cement": [
+    3,
+    3,
+    3
+  ],
+  "Echinoderms": [
+    4,
+    4,
+    4
+  ],
+  "Foraminifera": [
+    5,
+    5,
+    5
+  ],
+  "Calcareous Algae": [
+    6,
+    6,
+    6
+  ],
+  "Peloid": [
+    7,
+    7,
+    7
+  ],
+  "Unid biota": [
+    8,
+    8,
+    8
+  ],
+  "Ooid": [
+    9,
+    9,
+    9
+  ],
+  "Gastropods": [
+    10,
+    10,
+    10
+  ],
+  "Scale Bar": [
+    11,
+    11,
+    11
+  ],
+  "Mollusk": [
+    12,
+    12,
+    12
+  ],
+  "Ostracod": [
+    13,
+    13,
+    13
+  ],
+  "Aggregate Grain": [
+    14,
+    14,
+    14
+  ],
+  "Brachiopod": [
+    15,
+    15,
+    15
+  ]
+}

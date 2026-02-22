@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740537417,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T20:28:50.670Z",
+            "updatedAt": "2025-11-19T22:08:28.560Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        10
+                    ],
+                    [
+                        3837,
+                        6
+                    ],
+                    [
+                        3837,
+                        3065
+                    ],
+                    [
+                        0,
+                        3065
+                    ]
+                ],
+                "interior": [
+                    [
+                        [
+                            3260,
+                            2870
+                        ],
+                        [
+                            3613,
+                            2866
+                        ],
+                        [
+                            3615,
+                            2956
+                        ],
+                        [
+                            3261,
+                            2958
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": 1740539061,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T22:08:42.133Z",
+            "updatedAt": "2025-11-19T22:08:45.257Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "points": {
+                "exterior": [
+                    [
+                        3270,
+                        2874
+                    ],
+                    [
+                        3602,
+                        2873
+                    ],
+                    [
+                        3605,
+                        2948
+                    ],
+                    [
+                        3269,
+                        2948
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

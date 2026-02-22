@@ -1,0 +1,1580 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740537400,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:40:08.393Z",
+            "updatedAt": "2025-09-12T18:41:06.469Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        2083,
+                        1714
+                    ],
+                    [
+                        2135,
+                        1685
+                    ],
+                    [
+                        2202,
+                        1656
+                    ],
+                    [
+                        2257,
+                        1622
+                    ],
+                    [
+                        2315,
+                        1595
+                    ],
+                    [
+                        2365,
+                        1578
+                    ],
+                    [
+                        2411,
+                        1562
+                    ],
+                    [
+                        2466,
+                        1558
+                    ],
+                    [
+                        2533,
+                        1574
+                    ],
+                    [
+                        2599,
+                        1599
+                    ],
+                    [
+                        2641,
+                        1629
+                    ],
+                    [
+                        2697,
+                        1662
+                    ],
+                    [
+                        2750,
+                        1687
+                    ],
+                    [
+                        2787,
+                        1698
+                    ],
+                    [
+                        2831,
+                        1741
+                    ],
+                    [
+                        2883,
+                        1777
+                    ],
+                    [
+                        2911,
+                        1812
+                    ],
+                    [
+                        2952,
+                        1854
+                    ],
+                    [
+                        2982,
+                        1904
+                    ],
+                    [
+                        3032,
+                        1961
+                    ],
+                    [
+                        3040,
+                        2001
+                    ],
+                    [
+                        3059,
+                        2059
+                    ],
+                    [
+                        3084,
+                        2128
+                    ],
+                    [
+                        3101,
+                        2212
+                    ],
+                    [
+                        3113,
+                        2272
+                    ],
+                    [
+                        3111,
+                        2347
+                    ],
+                    [
+                        3101,
+                        2425
+                    ],
+                    [
+                        3076,
+                        2510
+                    ],
+                    [
+                        3042,
+                        2596
+                    ],
+                    [
+                        3000,
+                        2656
+                    ],
+                    [
+                        2957,
+                        2721
+                    ],
+                    [
+                        2906,
+                        2765
+                    ],
+                    [
+                        2850,
+                        2811
+                    ],
+                    [
+                        2779,
+                        2842
+                    ],
+                    [
+                        2723,
+                        2849
+                    ],
+                    [
+                        2668,
+                        2865
+                    ],
+                    [
+                        2624,
+                        2876
+                    ],
+                    [
+                        2572,
+                        2878
+                    ],
+                    [
+                        2495,
+                        2882
+                    ],
+                    [
+                        2436,
+                        2868
+                    ],
+                    [
+                        2351,
+                        2840
+                    ],
+                    [
+                        2301,
+                        2811
+                    ],
+                    [
+                        2236,
+                        2801
+                    ],
+                    [
+                        2181,
+                        2769
+                    ],
+                    [
+                        2106,
+                        2719
+                    ],
+                    [
+                        2060,
+                        2671
+                    ],
+                    [
+                        2023,
+                        2610
+                    ],
+                    [
+                        1985,
+                        2558
+                    ],
+                    [
+                        1939,
+                        2508
+                    ],
+                    [
+                        1920,
+                        2441
+                    ],
+                    [
+                        1902,
+                        2372
+                    ],
+                    [
+                        1893,
+                        2287
+                    ],
+                    [
+                        1879,
+                        2205
+                    ],
+                    [
+                        1889,
+                        2124
+                    ],
+                    [
+                        1900,
+                        2046
+                    ],
+                    [
+                        1935,
+                        1959
+                    ],
+                    [
+                        1966,
+                        1879
+                    ],
+                    [
+                        2000,
+                        1808
+                    ],
+                    [
+                        2046,
+                        1756
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537401,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:41:13.570Z",
+            "updatedAt": "2025-09-12T18:41:47.715Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        1758
+                    ],
+                    [
+                        993,
+                        1722
+                    ],
+                    [
+                        1063,
+                        1700
+                    ],
+                    [
+                        1130,
+                        1667
+                    ],
+                    [
+                        1255,
+                        1655
+                    ],
+                    [
+                        1346,
+                        1655
+                    ],
+                    [
+                        1437,
+                        1664
+                    ],
+                    [
+                        1529,
+                        1706
+                    ],
+                    [
+                        1641,
+                        1755
+                    ],
+                    [
+                        1702,
+                        1828
+                    ],
+                    [
+                        1769,
+                        1913
+                    ],
+                    [
+                        1806,
+                        1989
+                    ],
+                    [
+                        1824,
+                        2066
+                    ],
+                    [
+                        1842,
+                        2184
+                    ],
+                    [
+                        1821,
+                        2333
+                    ],
+                    [
+                        1781,
+                        2431
+                    ],
+                    [
+                        1742,
+                        2482
+                    ],
+                    [
+                        1693,
+                        2540
+                    ],
+                    [
+                        1635,
+                        2610
+                    ],
+                    [
+                        1538,
+                        2638
+                    ],
+                    [
+                        1468,
+                        2677
+                    ],
+                    [
+                        1370,
+                        2699
+                    ],
+                    [
+                        1270,
+                        2711
+                    ],
+                    [
+                        1163,
+                        2705
+                    ],
+                    [
+                        1103,
+                        2668
+                    ],
+                    [
+                        1060,
+                        2601
+                    ],
+                    [
+                        1072,
+                        2516
+                    ],
+                    [
+                        1059,
+                        2441
+                    ],
+                    [
+                        1054,
+                        2324
+                    ],
+                    [
+                        1030,
+                        2210
+                    ],
+                    [
+                        1009,
+                        2112
+                    ],
+                    [
+                        982,
+                        1982
+                    ],
+                    [
+                        964,
+                        1896
+                    ],
+                    [
+                        938,
+                        1834
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537402,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:42:24.349Z",
+            "updatedAt": "2025-09-12T18:42:56.742Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        2773,
+                        477
+                    ],
+                    [
+                        2836,
+                        439
+                    ],
+                    [
+                        2897,
+                        430
+                    ],
+                    [
+                        2969,
+                        430
+                    ],
+                    [
+                        3056,
+                        448
+                    ],
+                    [
+                        3125,
+                        465
+                    ],
+                    [
+                        3177,
+                        506
+                    ],
+                    [
+                        3241,
+                        526
+                    ],
+                    [
+                        3313,
+                        575
+                    ],
+                    [
+                        3371,
+                        639
+                    ],
+                    [
+                        3432,
+                        731
+                    ],
+                    [
+                        3475,
+                        812
+                    ],
+                    [
+                        3490,
+                        951
+                    ],
+                    [
+                        3472,
+                        1067
+                    ],
+                    [
+                        3412,
+                        1194
+                    ],
+                    [
+                        3354,
+                        1272
+                    ],
+                    [
+                        3299,
+                        1321
+                    ],
+                    [
+                        3238,
+                        1361
+                    ],
+                    [
+                        3143,
+                        1385
+                    ],
+                    [
+                        3030,
+                        1387
+                    ],
+                    [
+                        2882,
+                        1385
+                    ],
+                    [
+                        2755,
+                        1347
+                    ],
+                    [
+                        2689,
+                        1304
+                    ],
+                    [
+                        2625,
+                        1243
+                    ],
+                    [
+                        2559,
+                        1153
+                    ],
+                    [
+                        2498,
+                        1069
+                    ],
+                    [
+                        2483,
+                        962
+                    ],
+                    [
+                        2483,
+                        827
+                    ],
+                    [
+                        2515,
+                        725
+                    ],
+                    [
+                        2570,
+                        630
+                    ],
+                    [
+                        2645,
+                        543
+                    ],
+                    [
+                        2713,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537403,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:43:20.213Z",
+            "updatedAt": "2025-09-12T18:43:39.671Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        3827,
+                        1494
+                    ],
+                    [
+                        3748,
+                        1481
+                    ],
+                    [
+                        3670,
+                        1486
+                    ],
+                    [
+                        3574,
+                        1507
+                    ],
+                    [
+                        3496,
+                        1525
+                    ],
+                    [
+                        3422,
+                        1564
+                    ],
+                    [
+                        3369,
+                        1608
+                    ],
+                    [
+                        3308,
+                        1664
+                    ],
+                    [
+                        3260,
+                        1734
+                    ],
+                    [
+                        3217,
+                        1795
+                    ],
+                    [
+                        3186,
+                        1869
+                    ],
+                    [
+                        3182,
+                        1926
+                    ],
+                    [
+                        3160,
+                        2030
+                    ],
+                    [
+                        3160,
+                        2152
+                    ],
+                    [
+                        3191,
+                        2244
+                    ],
+                    [
+                        3230,
+                        2348
+                    ],
+                    [
+                        3317,
+                        2427
+                    ],
+                    [
+                        3404,
+                        2523
+                    ],
+                    [
+                        3531,
+                        2562
+                    ],
+                    [
+                        3626,
+                        2606
+                    ],
+                    [
+                        3744,
+                        2597
+                    ],
+                    [
+                        3805,
+                        2597
+                    ],
+                    [
+                        3839,
+                        2597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537404,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:43:52.661Z",
+            "updatedAt": "2025-09-12T18:44:05.643Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        357
+                    ],
+                    [
+                        114,
+                        413
+                    ],
+                    [
+                        240,
+                        492
+                    ],
+                    [
+                        366,
+                        548
+                    ],
+                    [
+                        571,
+                        548
+                    ],
+                    [
+                        624,
+                        527
+                    ],
+                    [
+                        619,
+                        335
+                    ],
+                    [
+                        610,
+                        217
+                    ],
+                    [
+                        584,
+                        100
+                    ],
+                    [
+                        563,
+                        43
+                    ],
+                    [
+                        558,
+                        4
+                    ],
+                    [
+                        5,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537405,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:44:11.101Z",
+            "updatedAt": "2025-09-12T18:44:32.955Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        754,
+                        8
+                    ],
+                    [
+                        780,
+                        509
+                    ],
+                    [
+                        824,
+                        483
+                    ],
+                    [
+                        863,
+                        448
+                    ],
+                    [
+                        950,
+                        453
+                    ],
+                    [
+                        1046,
+                        440
+                    ],
+                    [
+                        1129,
+                        383
+                    ],
+                    [
+                        1208,
+                        326
+                    ],
+                    [
+                        1260,
+                        239
+                    ],
+                    [
+                        1321,
+                        174
+                    ],
+                    [
+                        1351,
+                        113
+                    ],
+                    [
+                        1369,
+                        91
+                    ],
+                    [
+                        1378,
+                        187
+                    ],
+                    [
+                        1404,
+                        300
+                    ],
+                    [
+                        1504,
+                        435
+                    ],
+                    [
+                        1591,
+                        514
+                    ],
+                    [
+                        1709,
+                        570
+                    ],
+                    [
+                        1857,
+                        601
+                    ],
+                    [
+                        1975,
+                        601
+                    ],
+                    [
+                        2092,
+                        575
+                    ],
+                    [
+                        2201,
+                        544
+                    ],
+                    [
+                        2332,
+                        466
+                    ],
+                    [
+                        2458,
+                        344
+                    ],
+                    [
+                        2519,
+                        217
+                    ],
+                    [
+                        2572,
+                        130
+                    ],
+                    [
+                        2585,
+                        47
+                    ],
+                    [
+                        2593,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537406,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:44:42.003Z",
+            "updatedAt": "2025-09-12T18:44:51.744Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        3839,
+                        4
+                    ],
+                    [
+                        3796,
+                        25
+                    ],
+                    [
+                        3714,
+                        60
+                    ],
+                    [
+                        3661,
+                        108
+                    ],
+                    [
+                        3596,
+                        187
+                    ],
+                    [
+                        3557,
+                        278
+                    ],
+                    [
+                        3522,
+                        348
+                    ],
+                    [
+                        3496,
+                        418
+                    ],
+                    [
+                        3496,
+                        540
+                    ],
+                    [
+                        3491,
+                        640
+                    ],
+                    [
+                        3526,
+                        762
+                    ],
+                    [
+                        3583,
+                        875
+                    ],
+                    [
+                        3666,
+                        945
+                    ],
+                    [
+                        3748,
+                        1024
+                    ],
+                    [
+                        3836,
+                        1102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537407,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:45:02.093Z",
+            "updatedAt": "2025-09-12T18:45:24.516Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        1391,
+                        1002
+                    ],
+                    [
+                        1460,
+                        945
+                    ],
+                    [
+                        1600,
+                        849
+                    ],
+                    [
+                        1765,
+                        775
+                    ],
+                    [
+                        1866,
+                        749
+                    ],
+                    [
+                        1927,
+                        701
+                    ],
+                    [
+                        2040,
+                        636
+                    ],
+                    [
+                        2145,
+                        684
+                    ],
+                    [
+                        2193,
+                        753
+                    ],
+                    [
+                        2245,
+                        854
+                    ],
+                    [
+                        2262,
+                        989
+                    ],
+                    [
+                        2284,
+                        1150
+                    ],
+                    [
+                        2280,
+                        1250
+                    ],
+                    [
+                        2249,
+                        1355
+                    ],
+                    [
+                        2210,
+                        1468
+                    ],
+                    [
+                        2166,
+                        1551
+                    ],
+                    [
+                        2101,
+                        1621
+                    ],
+                    [
+                        2018,
+                        1677
+                    ],
+                    [
+                        1944,
+                        1721
+                    ],
+                    [
+                        1857,
+                        1738
+                    ],
+                    [
+                        1761,
+                        1730
+                    ],
+                    [
+                        1670,
+                        1708
+                    ],
+                    [
+                        1587,
+                        1695
+                    ],
+                    [
+                        1491,
+                        1664
+                    ],
+                    [
+                        1395,
+                        1590
+                    ],
+                    [
+                        1330,
+                        1516
+                    ],
+                    [
+                        1277,
+                        1377
+                    ],
+                    [
+                        1260,
+                        1246
+                    ],
+                    [
+                        1277,
+                        1119
+                    ],
+                    [
+                        1337,
+                        1057
+                    ],
+                    [
+                        1388,
+                        1004
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537408,
+            "classId": 14151167,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:46:04.012Z",
+            "updatedAt": "2025-09-12T18:46:26.633Z",
+            "tags": [],
+            "classTitle": "Ooid",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1895
+                    ],
+                    [
+                        48,
+                        1995
+                    ],
+                    [
+                        105,
+                        2048
+                    ],
+                    [
+                        192,
+                        2117
+                    ],
+                    [
+                        336,
+                        2091
+                    ],
+                    [
+                        467,
+                        2030
+                    ],
+                    [
+                        541,
+                        1934
+                    ],
+                    [
+                        641,
+                        1825
+                    ],
+                    [
+                        667,
+                        1773
+                    ],
+                    [
+                        706,
+                        1686
+                    ],
+                    [
+                        737,
+                        1560
+                    ],
+                    [
+                        698,
+                        1446
+                    ],
+                    [
+                        680,
+                        1337
+                    ],
+                    [
+                        641,
+                        1228
+                    ],
+                    [
+                        632,
+                        1128
+                    ],
+                    [
+                        645,
+                        989
+                    ],
+                    [
+                        637,
+                        897
+                    ],
+                    [
+                        615,
+                        810
+                    ],
+                    [
+                        602,
+                        775
+                    ],
+                    [
+                        645,
+                        662
+                    ],
+                    [
+                        571,
+                        583
+                    ],
+                    [
+                        427,
+                        557
+                    ],
+                    [
+                        240,
+                        522
+                    ],
+                    [
+                        153,
+                        557
+                    ],
+                    [
+                        0,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537409,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:46:55.712Z",
+            "updatedAt": "2025-09-12T18:49:05.677Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1664,
+                    748
+                ]
+            }
+        },
+        {
+            "id": 1740537410,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T18:49:32.219Z",
+            "updatedAt": "2025-09-12T18:51:12.579Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    93
+                ]
+            }
+        },
+        {
+            "id": 1740537411,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:19:39.388Z",
+            "updatedAt": "2025-09-12T21:19:42.724Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        2677,
+                        204
+                    ],
+                    [
+                        2710,
+                        138
+                    ],
+                    [
+                        2801,
+                        97
+                    ],
+                    [
+                        2909,
+                        200
+                    ],
+                    [
+                        2942,
+                        337
+                    ],
+                    [
+                        2851,
+                        395
+                    ],
+                    [
+                        2719,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537412,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:19:39.730Z",
+            "updatedAt": "2025-09-12T21:19:43.033Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        2201,
+                        631
+                    ],
+                    [
+                        2259,
+                        540
+                    ],
+                    [
+                        2449,
+                        523
+                    ],
+                    [
+                        2478,
+                        602
+                    ],
+                    [
+                        2466,
+                        714
+                    ],
+                    [
+                        2445,
+                        784
+                    ],
+                    [
+                        2354,
+                        788
+                    ],
+                    [
+                        2242,
+                        792
+                    ],
+                    [
+                        2184,
+                        685
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537413,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:19:39.697Z",
+            "updatedAt": "2025-09-12T21:19:42.993Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        3286,
+                        246
+                    ],
+                    [
+                        3344,
+                        188
+                    ],
+                    [
+                        3422,
+                        180
+                    ],
+                    [
+                        3476,
+                        225
+                    ],
+                    [
+                        3485,
+                        329
+                    ],
+                    [
+                        3422,
+                        378
+                    ],
+                    [
+                        3307,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537414,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:19:41.979Z",
+            "updatedAt": "2025-09-12T21:19:49.326Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        3770,
+                        2697
+                    ],
+                    [
+                        3663,
+                        2693
+                    ],
+                    [
+                        3588,
+                        2697
+                    ],
+                    [
+                        3563,
+                        2751
+                    ],
+                    [
+                        3567,
+                        2821
+                    ],
+                    [
+                        3609,
+                        2908
+                    ],
+                    [
+                        3721,
+                        2966
+                    ],
+                    [
+                        3816,
+                        2929
+                    ],
+                    [
+                        3820,
+                        2805
+                    ],
+                    [
+                        3816,
+                        2713
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537415,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:19:56.727Z",
+            "updatedAt": "2025-09-12T21:20:00.587Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        1154,
+                        2792
+                    ],
+                    [
+                        1129,
+                        2838
+                    ],
+                    [
+                        1149,
+                        2908
+                    ],
+                    [
+                        1203,
+                        2929
+                    ],
+                    [
+                        1257,
+                        2887
+                    ],
+                    [
+                        1217,
+                        2850
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740537416,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T21:20:02.282Z",
+            "updatedAt": "2025-09-12T21:20:05.531Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        1381,
+                        2805
+                    ],
+                    [
+                        1468,
+                        2800
+                    ],
+                    [
+                        1485,
+                        2863
+                    ],
+                    [
+                        1447,
+                        2937
+                    ],
+                    [
+                        1336,
+                        2958
+                    ],
+                    [
+                        1315,
+                        2871
+                    ],
+                    [
+                        1332,
+                        2817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740539211,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T22:17:31.273Z",
+            "updatedAt": "2025-11-19T22:17:31.273Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "points": {
+                "exterior": [
+                    [
+                        3143,
+                        2862
+                    ],
+                    [
+                        3287,
+                        2938
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

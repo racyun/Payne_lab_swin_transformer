@@ -1,0 +1,80 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740537436,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-09-12T19:01:32.095Z",
+            "updatedAt": "2025-11-19T21:54:39.783Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        3837,
+                        6
+                    ],
+                    [
+                        3839,
+                        2813
+                    ],
+                    [
+                        7,
+                        2824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538660,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T21:54:50.244Z",
+            "updatedAt": "2025-11-19T21:54:50.244Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "points": {
+                "exterior": [
+                    [
+                        3142,
+                        2865
+                    ],
+                    [
+                        3475,
+                        2863
+                    ],
+                    [
+                        3473,
+                        2939
+                    ],
+                    [
+                        3140,
+                        2941
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

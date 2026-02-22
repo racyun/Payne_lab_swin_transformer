@@ -1,0 +1,1729 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 174820043,
+            "tagId": 32899730,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T21:09:06.960Z",
+            "updatedAt": "2025-11-19T21:09:06.960Z"
+        }
+    ],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740537841,
+            "classId": 14151172,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "edward",
+            "createdAt": "2025-05-03T08:24:15.776Z",
+            "updatedAt": "2026-01-06T21:58:58.102Z",
+            "tags": [],
+            "classTitle": "Ostracod",
+            "smartToolInput": {
+                "crop": [
+                    [
+                        2576,
+                        2511
+                    ],
+                    [
+                        2707,
+                        2616
+                    ]
+                ],
+                "visible": true,
+                "negative": [],
+                "positive": [
+                    [
+                        2672,
+                        2551
+                    ],
+                    [
+                        2665,
+                        2573
+                    ],
+                    [
+                        2633,
+                        2593
+                    ],
+                    [
+                        2601,
+                        2596
+                    ],
+                    [
+                        2591,
+                        2596
+                    ],
+                    [
+                        2603,
+                        2599
+                    ],
+                    [
+                        2616,
+                        2595
+                    ],
+                    [
+                        2627,
+                        2596
+                    ],
+                    [
+                        2673,
+                        2539
+                    ],
+                    [
+                        2671,
+                        2531
+                    ],
+                    [
+                        2676,
+                        2545
+                    ],
+                    [
+                        2645,
+                        2588
+                    ],
+                    [
+                        2639,
+                        2592
+                    ],
+                    [
+                        2633,
+                        2595
+                    ],
+                    [
+                        2632,
+                        2598
+                    ],
+                    [
+                        2587,
+                        2592
+                    ],
+                    [
+                        2707,
+                        2615.186071071122
+                    ]
+                ]
+            },
+            "bitmap": {
+                "data": "eNoBmQNm/IlQTkcNChoKAAAADUlIRFIAAABhAAAATwgGAAAA+6Cr5QAAA05JREFUeAHsmo1y6iAQRlvf/51bj3WdiBBYWEKjn3O3JPzswjmNOnd6+dJrGoGf+6tWQBJqhDrH4W9LuSbsPm0lISUycA9oC08aSfDQmjRXEiaBzaXlKcn1S0KOSkdfCXBLKkloodQw5/v6apj2lZMlCS3kguekIiQhCHAK1pNWEjy0Audupb2XhEBIR6aShCNpF2pJQgHMkd2ScCTtpJZ9LkhCAmbFrSSsoJ7UlIQEyIpbSQigbu/tPalYKwk95ILXSEIwUG+66//7fUuCl1pmPiAz3c1dBQnN6zUxgIAkBEAcTSEJowQH1+vb0SDAiOV8nuhJiCDZmQMBLJUEKASEAe1JJQk91ALWbKVJQgBQTwrgE9s1krClsehaEhaB35b9CAnbA6+8Tt+GbC+SYCQWtpJwEPzSU0B5SYDC4pCExQIoLwlQWBySsFgA5SUBCotDEg4QsPfNiPKSAIXFIQmTBdSeAsr7JLBCEU5AEsKR+hNKgp9Z+ApJCEfqTygJfmbZFfzpSnagoVMSGiDVppQEtHwzIrckQKEzgE90Ln8sk4QHCt9FBHyrKAlGwtFGCqCsJEDBEa0CWj8PKP3JEjj/vwhJcGhofQocKW9TJeGGof7DI8DzVkRlSYDCTgCf2JkyPCQJwwj/EvDbb/HX0/5TEnZY1Z4Ag067k6Y6JAlVRK8TgE68jvT1SEKBW+kpiIRvpSXBSNxb4BP326dmhgAKSAIU7rEHf5YASkvClQLwievly7+Z8K1YiARLdrYW8ERu38AncmPRfR8nAegWOZiAJ3Jjs/o+RsIe+FlwW/O+tQQDT1sDwm8/UZs3Y/zCBi1mFDg6p52FtqU24ImWubPmPD0JbJyYVWxmXvZNeGqshm97veQ2wmG2YZP/Y2v79OyNMxOeNTPnPj0JpUI9By3l6um3+rnWkw/whGfNEXObJNhGthCsL6rd5k6vR2sAnhjNM2v9TULPBlNQo/ezDthztll7KeW9SWDwDJtln57oO5OnQszchwTSnWXT7PWd4kkCB3sXEWc6x4sEEzH7EOTPBfVHwnKO5Dh6bVaCbSLiQJYjba1G2qbzuE/nlO49c0s5VvTvSrANcbhc2Hiutfm5MW+f5cq1losxuz5b+wsAAP//1/lSJQAAAAZJREFUAwCRTJSK0l68KwAAAABJRU5ErkJggsLXmns=",
+                "origin": [
+                    2584,
+                    2522
+                ]
+            }
+        },
+        {
+            "id": 1740537842,
+            "classId": 14151172,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "edward",
+            "createdAt": "2025-05-03T08:24:15.776Z",
+            "updatedAt": "2025-05-03T08:24:15.776Z",
+            "tags": [],
+            "classTitle": "Ostracod",
+            "smartToolInput": {
+                "crop": [
+                    [
+                        3159,
+                        2555
+                    ],
+                    [
+                        3471,
+                        2707
+                    ]
+                ],
+                "visible": true,
+                "negative": [
+                    [
+                        3311,
+                        2629
+                    ],
+                    [
+                        3261,
+                        2623
+                    ],
+                    [
+                        3371,
+                        2622
+                    ],
+                    [
+                        3245,
+                        2625
+                    ],
+                    [
+                        3238,
+                        2629
+                    ],
+                    [
+                        3230,
+                        2628
+                    ]
+                ],
+                "positive": [
+                    [
+                        3409,
+                        2623
+                    ],
+                    [
+                        3355,
+                        2647
+                    ],
+                    [
+                        3222,
+                        2648
+                    ],
+                    [
+                        3207,
+                        2634
+                    ],
+                    [
+                        3255,
+                        2605
+                    ],
+                    [
+                        3358,
+                        2604
+                    ],
+                    [
+                        3384,
+                        2602
+                    ],
+                    [
+                        3297,
+                        2660
+                    ],
+                    [
+                        3312,
+                        2590
+                    ],
+                    [
+                        3216,
+                        2617
+                    ],
+                    [
+                        3195,
+                        2628
+                    ],
+                    [
+                        3251,
+                        2654
+                    ],
+                    [
+                        3286,
+                        2655
+                    ],
+                    [
+                        3333,
+                        2652
+                    ],
+                    [
+                        3230,
+                        2607
+                    ],
+                    [
+                        3217,
+                        2601
+                    ],
+                    [
+                        3189,
+                        2620
+                    ],
+                    [
+                        3379,
+                        2645
+                    ],
+                    [
+                        3424,
+                        2621
+                    ],
+                    [
+                        3439,
+                        2634
+                    ]
+                ]
+            },
+            "bitmap": {
+                "data": "eJwBXQKi/YlQTkcNChoKAAAADUlIRFIAAAEJAAAAUwEDAAAAtsRgAgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIFSURBVHichZZLbsQgDIaJWMyu2XbVHCXH6qYSVL0YNylHoOpiIjUKDeHhB2bGm1HIF/v37wRGKRpGPYspRvsEWWOMfzFuY0JHCMdvzlkJQlimZTMhcREHEfVyPn0odSNE9CRJWvmyC0UC76MPIsaICGFkIsmrMQ2QCAjuxMnuza2HNZCq0PZSlyxrD/TSlRmQprepDZ2yDsmlsd6NI66zYC+Ipgj2+uCI7SfGh2iZB7Bk2HXKeivgADn79rU8l6dIrODDCNHgZvP/oMiVhhnuGLI079ZBkmueB0liOXKr+qpRHCh6LdQRPnSO+B6ZGNIpKYgDpCcy4hsSBERRRKiTkdAQiVC1UzNouSB7+ZVaLnKPijgJ0VWCeYK4IldsSNfJrIOGls/vWPQuAwS9iwOkvmjp3iwjkSOd3HdALCCviMB7jM1XLlV3UpmE6IoYmBTehZLOJc9II9W4zl6QLS/7ahtCvGof3YwQQ6Rkk4qFoZdyNB+3j/Tkj2POlo8aFf4NXR2O3HfiyrZac/k+MxNASlVPD02Ln2lmEysTVdUGGIihyF6v0cx4Gly0xOhoRC/H4IAle5+RiB0T0mFPATr7EoEhgl6OCGk8R/qeXIfMjxoW+7YCwdRIBPsbJSLqNGuJ97GSJGY7Jz49RLQH1V5GcqwDU1Bcjb09Ii4L+ZCFNOEJooUk/yDvCCdWaoQuAAAAAElFTkSuQmCC0A4D5Q==",
+                "origin": [
+                    3182,
+                    2586
+                ]
+            }
+        },
+        {
+            "id": 1740537843,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "edward",
+            "createdAt": "2025-05-03T08:24:15.776Z",
+            "updatedAt": "2025-05-03T08:24:15.776Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgDASyvRiZgaTFva9vgRRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5qp4ujiEVc96eWsjIwMDBvGDuu+fvWGezGt3c3Pl61zowendYd1mN7cS+BPdyoAYGT1c/l3VOCU0A/0Ir1g==",
+                "origin": [
+                    3080,
+                    2879
+                ]
+            }
+        },
+        {
+            "id": 1752779699,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:46:40.003Z",
+            "updatedAt": "2026-01-06T21:49:39.594Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        717
+                    ],
+                    [
+                        632,
+                        772
+                    ],
+                    [
+                        915,
+                        782
+                    ],
+                    [
+                        1023,
+                        831
+                    ],
+                    [
+                        1282,
+                        838
+                    ],
+                    [
+                        1409,
+                        910
+                    ],
+                    [
+                        1523,
+                        910
+                    ],
+                    [
+                        1714,
+                        1010
+                    ],
+                    [
+                        1807,
+                        993
+                    ],
+                    [
+                        1883,
+                        1041
+                    ],
+                    [
+                        1938,
+                        1048
+                    ],
+                    [
+                        1976,
+                        1062
+                    ],
+                    [
+                        2024,
+                        1110
+                    ],
+                    [
+                        1980,
+                        1128
+                    ],
+                    [
+                        1931,
+                        1138
+                    ],
+                    [
+                        1910,
+                        1173
+                    ],
+                    [
+                        2021,
+                        1193
+                    ],
+                    [
+                        2059,
+                        1173
+                    ],
+                    [
+                        2125,
+                        1228
+                    ],
+                    [
+                        2325,
+                        1214
+                    ],
+                    [
+                        2418,
+                        1235
+                    ],
+                    [
+                        2595,
+                        1152
+                    ],
+                    [
+                        2636,
+                        1152
+                    ],
+                    [
+                        2698,
+                        1200
+                    ],
+                    [
+                        2802,
+                        1252
+                    ],
+                    [
+                        2869,
+                        1293
+                    ],
+                    [
+                        2950,
+                        1327
+                    ],
+                    [
+                        3032,
+                        1361
+                    ],
+                    [
+                        3100,
+                        1367
+                    ],
+                    [
+                        3191,
+                        1399
+                    ],
+                    [
+                        3300,
+                        1399
+                    ],
+                    [
+                        3481,
+                        1449
+                    ],
+                    [
+                        3640,
+                        1483
+                    ],
+                    [
+                        3746,
+                        1502
+                    ],
+                    [
+                        3795,
+                        1488
+                    ],
+                    [
+                        3839,
+                        1489
+                    ],
+                    [
+                        3834,
+                        968
+                    ],
+                    [
+                        3790,
+                        987
+                    ],
+                    [
+                        3729,
+                        982
+                    ],
+                    [
+                        3653,
+                        993
+                    ],
+                    [
+                        3572,
+                        971
+                    ],
+                    [
+                        3507,
+                        946
+                    ],
+                    [
+                        3466,
+                        959
+                    ],
+                    [
+                        3407,
+                        931
+                    ],
+                    [
+                        3323,
+                        925
+                    ],
+                    [
+                        3254,
+                        887
+                    ],
+                    [
+                        3182,
+                        900
+                    ],
+                    [
+                        3036,
+                        831
+                    ],
+                    [
+                        2976,
+                        766
+                    ],
+                    [
+                        2895,
+                        741
+                    ],
+                    [
+                        2817,
+                        740
+                    ],
+                    [
+                        2711,
+                        769
+                    ],
+                    [
+                        2633,
+                        738
+                    ],
+                    [
+                        2549,
+                        737
+                    ],
+                    [
+                        2481,
+                        706
+                    ],
+                    [
+                        2353,
+                        707
+                    ],
+                    [
+                        2222,
+                        682
+                    ],
+                    [
+                        2156,
+                        683
+                    ],
+                    [
+                        2060,
+                        644
+                    ],
+                    [
+                        1969,
+                        622
+                    ],
+                    [
+                        1876,
+                        572
+                    ],
+                    [
+                        1795,
+                        565
+                    ],
+                    [
+                        1691,
+                        604
+                    ],
+                    [
+                        1679,
+                        565
+                    ],
+                    [
+                        1585,
+                        534
+                    ],
+                    [
+                        1479,
+                        526
+                    ],
+                    [
+                        1401,
+                        542
+                    ],
+                    [
+                        1285,
+                        546
+                    ],
+                    [
+                        1165,
+                        546
+                    ],
+                    [
+                        943,
+                        584
+                    ],
+                    [
+                        894,
+                        582
+                    ],
+                    [
+                        844,
+                        601
+                    ],
+                    [
+                        820,
+                        584
+                    ],
+                    [
+                        781,
+                        602
+                    ],
+                    [
+                        739,
+                        590
+                    ],
+                    [
+                        683,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779723,
+            "classId": 14151159,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:51:25.291Z",
+            "updatedAt": "2026-01-06T21:51:36.638Z",
+            "tags": [],
+            "classTitle": "Bivalves",
+            "points": {
+                "exterior": [
+                    [
+                        3175,
+                        2749
+                    ],
+                    [
+                        3228,
+                        2750
+                    ],
+                    [
+                        3276,
+                        2744
+                    ],
+                    [
+                        3315,
+                        2737
+                    ],
+                    [
+                        3315,
+                        2717
+                    ],
+                    [
+                        3269,
+                        2700
+                    ],
+                    [
+                        3225,
+                        2703
+                    ],
+                    [
+                        3194,
+                        2714
+                    ],
+                    [
+                        3176,
+                        2727
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779724,
+            "classId": 14151163,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:52:29.042Z",
+            "updatedAt": "2026-01-06T21:52:36.933Z",
+            "tags": [],
+            "classTitle": "Foraminifera",
+            "points": {
+                "exterior": [
+                    [
+                        3402,
+                        2730
+                    ],
+                    [
+                        3418,
+                        2701
+                    ],
+                    [
+                        3415,
+                        2677
+                    ],
+                    [
+                        3390,
+                        2674
+                    ],
+                    [
+                        3370,
+                        2685
+                    ],
+                    [
+                        3369,
+                        2703
+                    ],
+                    [
+                        3387,
+                        2717
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779727,
+            "classId": 14151163,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:53:33.805Z",
+            "updatedAt": "2026-01-06T21:53:41.161Z",
+            "tags": [],
+            "classTitle": "Foraminifera",
+            "points": {
+                "exterior": [
+                    [
+                        2162,
+                        2607
+                    ],
+                    [
+                        2179,
+                        2600
+                    ],
+                    [
+                        2193,
+                        2570
+                    ],
+                    [
+                        2171,
+                        2555
+                    ],
+                    [
+                        2143,
+                        2553
+                    ],
+                    [
+                        2124,
+                        2584
+                    ],
+                    [
+                        2141,
+                        2606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779735,
+            "classId": 14151172,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:59:14.402Z",
+            "updatedAt": "2026-01-06T21:59:33.054Z",
+            "tags": [],
+            "classTitle": "Ostracod",
+            "points": {
+                "exterior": [
+                    [
+                        2742,
+                        2612
+                    ],
+                    [
+                        2747,
+                        2597
+                    ],
+                    [
+                        2757,
+                        2585
+                    ],
+                    [
+                        2768,
+                        2580
+                    ],
+                    [
+                        2754,
+                        2570
+                    ],
+                    [
+                        2743,
+                        2580
+                    ],
+                    [
+                        2727,
+                        2584
+                    ],
+                    [
+                        2712,
+                        2569
+                    ],
+                    [
+                        2702,
+                        2560
+                    ],
+                    [
+                        2692,
+                        2545
+                    ],
+                    [
+                        2690,
+                        2535
+                    ],
+                    [
+                        2675,
+                        2553
+                    ],
+                    [
+                        2692,
+                        2580
+                    ],
+                    [
+                        2729,
+                        2597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779737,
+            "classId": 14151163,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T21:59:49.906Z",
+            "updatedAt": "2026-01-06T21:59:58.146Z",
+            "tags": [],
+            "classTitle": "Foraminifera",
+            "points": {
+                "exterior": [
+                    [
+                        2118,
+                        2729
+                    ],
+                    [
+                        2134,
+                        2724
+                    ],
+                    [
+                        2141,
+                        2710
+                    ],
+                    [
+                        2129,
+                        2695
+                    ],
+                    [
+                        2110,
+                        2696
+                    ],
+                    [
+                        2100,
+                        2705
+                    ],
+                    [
+                        2095,
+                        2717
+                    ],
+                    [
+                        2103,
+                        2731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779743,
+            "classId": 14151166,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T22:01:41.800Z",
+            "updatedAt": "2026-01-06T22:02:12.971Z",
+            "tags": [],
+            "classTitle": "Unid biota",
+            "points": {
+                "exterior": [
+                    [
+                        1684,
+                        2753
+                    ],
+                    [
+                        1703,
+                        2742
+                    ],
+                    [
+                        1729,
+                        2715
+                    ],
+                    [
+                        1728,
+                        2692
+                    ],
+                    [
+                        1718,
+                        2681
+                    ],
+                    [
+                        1723,
+                        2669
+                    ],
+                    [
+                        1736,
+                        2659
+                    ],
+                    [
+                        1754,
+                        2659
+                    ],
+                    [
+                        1744,
+                        2648
+                    ],
+                    [
+                        1726,
+                        2654
+                    ],
+                    [
+                        1723,
+                        2662
+                    ],
+                    [
+                        1701,
+                        2656
+                    ],
+                    [
+                        1687,
+                        2663
+                    ],
+                    [
+                        1679,
+                        2648
+                    ],
+                    [
+                        1671,
+                        2654
+                    ],
+                    [
+                        1653,
+                        2650
+                    ],
+                    [
+                        1645,
+                        2650
+                    ],
+                    [
+                        1612,
+                        2640
+                    ],
+                    [
+                        1598,
+                        2647
+                    ],
+                    [
+                        1631,
+                        2696
+                    ],
+                    [
+                        1655,
+                        2742
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779747,
+            "classId": 14151159,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T22:04:16.286Z",
+            "updatedAt": "2026-01-06T22:04:45.130Z",
+            "tags": [],
+            "classTitle": "Bivalves",
+            "points": {
+                "exterior": [
+                    [
+                        1721,
+                        2651
+                    ],
+                    [
+                        1728,
+                        2637
+                    ],
+                    [
+                        1741,
+                        2610
+                    ],
+                    [
+                        1728,
+                        2577
+                    ],
+                    [
+                        1707,
+                        2554
+                    ],
+                    [
+                        1684,
+                        2541
+                    ],
+                    [
+                        1646,
+                        2556
+                    ],
+                    [
+                        1631,
+                        2584
+                    ],
+                    [
+                        1631,
+                        2616
+                    ],
+                    [
+                        1638,
+                        2610
+                    ],
+                    [
+                        1638,
+                        2590
+                    ],
+                    [
+                        1649,
+                        2570
+                    ],
+                    [
+                        1665,
+                        2556
+                    ],
+                    [
+                        1682,
+                        2552
+                    ],
+                    [
+                        1709,
+                        2573
+                    ],
+                    [
+                        1719,
+                        2595
+                    ],
+                    [
+                        1727,
+                        2614
+                    ],
+                    [
+                        1718,
+                        2630
+                    ],
+                    [
+                        1703,
+                        2636
+                    ],
+                    [
+                        1702,
+                        2642
+                    ],
+                    [
+                        1708,
+                        2653
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779752,
+            "classId": 14151166,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T22:04:56.106Z",
+            "updatedAt": "2026-01-06T22:05:10.091Z",
+            "tags": [],
+            "classTitle": "Unid biota",
+            "points": {
+                "exterior": [
+                    [
+                        1527,
+                        2581
+                    ],
+                    [
+                        1557,
+                        2576
+                    ],
+                    [
+                        1553,
+                        2567
+                    ],
+                    [
+                        1552,
+                        2559
+                    ],
+                    [
+                        1535,
+                        2546
+                    ],
+                    [
+                        1526,
+                        2547
+                    ],
+                    [
+                        1515,
+                        2546
+                    ],
+                    [
+                        1509,
+                        2536
+                    ],
+                    [
+                        1501,
+                        2524
+                    ],
+                    [
+                        1493,
+                        2524
+                    ],
+                    [
+                        1481,
+                        2527
+                    ],
+                    [
+                        1483,
+                        2540
+                    ],
+                    [
+                        1501,
+                        2565
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779800,
+            "classId": 14151166,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T22:11:49.835Z",
+            "updatedAt": "2026-01-06T22:12:06.597Z",
+            "tags": [],
+            "classTitle": "Unid biota",
+            "points": {
+                "exterior": [
+                    [
+                        854,
+                        2671
+                    ],
+                    [
+                        868,
+                        2658
+                    ],
+                    [
+                        872,
+                        2629
+                    ],
+                    [
+                        861,
+                        2607
+                    ],
+                    [
+                        832,
+                        2583
+                    ],
+                    [
+                        805,
+                        2563
+                    ],
+                    [
+                        783,
+                        2560
+                    ],
+                    [
+                        766,
+                        2563
+                    ],
+                    [
+                        736,
+                        2589
+                    ],
+                    [
+                        727,
+                        2631
+                    ],
+                    [
+                        737,
+                        2643
+                    ],
+                    [
+                        759,
+                        2641
+                    ],
+                    [
+                        755,
+                        2656
+                    ],
+                    [
+                        801,
+                        2644
+                    ],
+                    [
+                        817,
+                        2661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752779807,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-06T22:13:00.316Z",
+            "updatedAt": "2026-01-06T22:15:48.113Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        691
+                    ],
+                    [
+                        420,
+                        702
+                    ],
+                    [
+                        311,
+                        733
+                    ],
+                    [
+                        217,
+                        722
+                    ],
+                    [
+                        87,
+                        743
+                    ],
+                    [
+                        9,
+                        748
+                    ],
+                    [
+                        9,
+                        2337
+                    ],
+                    [
+                        331,
+                        2368
+                    ],
+                    [
+                        451,
+                        2404
+                    ],
+                    [
+                        602,
+                        2420
+                    ],
+                    [
+                        774,
+                        2446
+                    ],
+                    [
+                        811,
+                        2498
+                    ],
+                    [
+                        1165,
+                        2545
+                    ],
+                    [
+                        1311,
+                        2503
+                    ],
+                    [
+                        1441,
+                        2540
+                    ],
+                    [
+                        1597,
+                        2488
+                    ],
+                    [
+                        1722,
+                        2498
+                    ],
+                    [
+                        1935,
+                        2534
+                    ],
+                    [
+                        2159,
+                        2488
+                    ],
+                    [
+                        2404,
+                        2519
+                    ],
+                    [
+                        2581,
+                        2514
+                    ],
+                    [
+                        2873,
+                        2503
+                    ],
+                    [
+                        3076,
+                        2534
+                    ],
+                    [
+                        3467,
+                        2566
+                    ],
+                    [
+                        3696,
+                        2581
+                    ],
+                    [
+                        3839,
+                        2597
+                    ],
+                    [
+                        3839,
+                        1489
+                    ],
+                    [
+                        3839,
+                        1489
+                    ],
+                    [
+                        3795,
+                        1488
+                    ],
+                    [
+                        3746,
+                        1502
+                    ],
+                    [
+                        3746,
+                        1502
+                    ],
+                    [
+                        3640,
+                        1483
+                    ],
+                    [
+                        3640,
+                        1483
+                    ],
+                    [
+                        3481,
+                        1449
+                    ],
+                    [
+                        3481,
+                        1449
+                    ],
+                    [
+                        3300,
+                        1399
+                    ],
+                    [
+                        3300,
+                        1399
+                    ],
+                    [
+                        3191,
+                        1399
+                    ],
+                    [
+                        3191,
+                        1399
+                    ],
+                    [
+                        3100,
+                        1367
+                    ],
+                    [
+                        3100,
+                        1367
+                    ],
+                    [
+                        3032,
+                        1361
+                    ],
+                    [
+                        3032,
+                        1361
+                    ],
+                    [
+                        2950,
+                        1327
+                    ],
+                    [
+                        2869,
+                        1293
+                    ],
+                    [
+                        2869,
+                        1293
+                    ],
+                    [
+                        2802,
+                        1252
+                    ],
+                    [
+                        2698,
+                        1200
+                    ],
+                    [
+                        2698,
+                        1200
+                    ],
+                    [
+                        2636,
+                        1152
+                    ],
+                    [
+                        2636,
+                        1152
+                    ],
+                    [
+                        2595,
+                        1152
+                    ],
+                    [
+                        2595,
+                        1152
+                    ],
+                    [
+                        2418,
+                        1235
+                    ],
+                    [
+                        2418,
+                        1235
+                    ],
+                    [
+                        2325,
+                        1214
+                    ],
+                    [
+                        2325,
+                        1214
+                    ],
+                    [
+                        2125,
+                        1228
+                    ],
+                    [
+                        2125,
+                        1228
+                    ],
+                    [
+                        2059,
+                        1173
+                    ],
+                    [
+                        2059,
+                        1173
+                    ],
+                    [
+                        2021,
+                        1193
+                    ],
+                    [
+                        1916,
+                        1172
+                    ],
+                    [
+                        2021,
+                        1193
+                    ],
+                    [
+                        1910,
+                        1173
+                    ],
+                    [
+                        1931,
+                        1138
+                    ],
+                    [
+                        1931,
+                        1138
+                    ],
+                    [
+                        1980,
+                        1128
+                    ],
+                    [
+                        2024,
+                        1110
+                    ],
+                    [
+                        2024,
+                        1110
+                    ],
+                    [
+                        1976,
+                        1062
+                    ],
+                    [
+                        1976,
+                        1062
+                    ],
+                    [
+                        1938,
+                        1048
+                    ],
+                    [
+                        1883,
+                        1041
+                    ],
+                    [
+                        1883,
+                        1041
+                    ],
+                    [
+                        1807,
+                        993
+                    ],
+                    [
+                        1807,
+                        993
+                    ],
+                    [
+                        1714,
+                        1010
+                    ],
+                    [
+                        1714,
+                        1010
+                    ],
+                    [
+                        1523,
+                        910
+                    ],
+                    [
+                        1523,
+                        910
+                    ],
+                    [
+                        1409,
+                        910
+                    ],
+                    [
+                        1409,
+                        910
+                    ],
+                    [
+                        1282,
+                        838
+                    ],
+                    [
+                        1282,
+                        838
+                    ],
+                    [
+                        1023,
+                        831
+                    ],
+                    [
+                        1023,
+                        831
+                    ],
+                    [
+                        915,
+                        782
+                    ],
+                    [
+                        915,
+                        782
+                    ],
+                    [
+                        632,
+                        772
+                    ],
+                    [
+                        632,
+                        772
+                    ],
+                    [
+                        535,
+                        717
+                    ],
+                    [
+                        564,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753595699,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-09T22:48:48.679Z",
+            "updatedAt": "2026-01-09T22:49:03.080Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        2805,
+                        2591
+                    ],
+                    [
+                        2824,
+                        2607
+                    ],
+                    [
+                        2866,
+                        2615
+                    ],
+                    [
+                        2898,
+                        2621
+                    ],
+                    [
+                        2920,
+                        2623
+                    ],
+                    [
+                        2943,
+                        2609
+                    ],
+                    [
+                        2939,
+                        2599
+                    ],
+                    [
+                        2925,
+                        2585
+                    ],
+                    [
+                        2911,
+                        2574
+                    ],
+                    [
+                        2903,
+                        2568
+                    ],
+                    [
+                        2881,
+                        2563
+                    ],
+                    [
+                        2854,
+                        2560
+                    ],
+                    [
+                        2835,
+                        2557
+                    ],
+                    [
+                        2814,
+                        2561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754258707,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-14T21:52:35.864Z",
+            "updatedAt": "2026-01-14T21:55:10.213Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

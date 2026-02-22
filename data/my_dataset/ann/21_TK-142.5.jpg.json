@@ -1,0 +1,696 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 174820052,
+            "tagId": 32899730,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T21:09:05.250Z",
+            "updatedAt": "2025-11-19T21:09:05.250Z"
+        }
+    ],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740538024,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "edward",
+            "createdAt": "2025-05-03T08:24:15.776Z",
+            "updatedAt": "2025-05-03T08:24:15.776Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "smartToolInput": {
+                "crop": [
+                    [
+                        3141,
+                        2834
+                    ],
+                    [
+                        3609,
+                        3005
+                    ]
+                ],
+                "visible": true,
+                "negative": [],
+                "positive": [
+                    [
+                        3449,
+                        2918
+                    ]
+                ]
+            },
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgDASyvRiZgaTFva9vgRRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5qp4ujiEVc96eWsjIwMDBvGDuu+fvWGezGt3c3Pl61zowendYd1mN7cS+BPdyoAYGT1c/l3VOCU0A/0Ir1g==",
+                "origin": [
+                    3219,
+                    2879
+                ]
+            }
+        },
+        {
+            "id": 1740538025,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:01:32.738Z",
+            "updatedAt": "2025-10-29T21:01:39.596Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        1449,
+                        1536
+                    ],
+                    [
+                        1476,
+                        1526
+                    ],
+                    [
+                        1504,
+                        1510
+                    ],
+                    [
+                        1528,
+                        1502
+                    ],
+                    [
+                        1554,
+                        1503
+                    ],
+                    [
+                        1572,
+                        1548
+                    ],
+                    [
+                        1563,
+                        1599
+                    ],
+                    [
+                        1553,
+                        1635
+                    ],
+                    [
+                        1532,
+                        1665
+                    ],
+                    [
+                        1473,
+                        1681
+                    ],
+                    [
+                        1448,
+                        1649
+                    ],
+                    [
+                        1448,
+                        1593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538026,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:01:54.811Z",
+            "updatedAt": "2025-10-29T21:02:04.934Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        1158,
+                        1558
+                    ],
+                    [
+                        1177,
+                        1522
+                    ],
+                    [
+                        1203,
+                        1488
+                    ],
+                    [
+                        1207,
+                        1447
+                    ],
+                    [
+                        1244,
+                        1431
+                    ],
+                    [
+                        1313,
+                        1415
+                    ],
+                    [
+                        1371,
+                        1428
+                    ],
+                    [
+                        1405,
+                        1470
+                    ],
+                    [
+                        1409,
+                        1499
+                    ],
+                    [
+                        1368,
+                        1532
+                    ],
+                    [
+                        1300,
+                        1575
+                    ],
+                    [
+                        1180,
+                        1597
+                    ],
+                    [
+                        1156,
+                        1589
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538027,
+            "classId": 14151165,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:02:06.143Z",
+            "updatedAt": "2025-10-29T21:02:15.933Z",
+            "tags": [],
+            "classTitle": "Peloid",
+            "points": {
+                "exterior": [
+                    [
+                        1647,
+                        1724
+                    ],
+                    [
+                        1677,
+                        1701
+                    ],
+                    [
+                        1721,
+                        1691
+                    ],
+                    [
+                        1767,
+                        1694
+                    ],
+                    [
+                        1790,
+                        1701
+                    ],
+                    [
+                        1800,
+                        1675
+                    ],
+                    [
+                        1845,
+                        1652
+                    ],
+                    [
+                        1879,
+                        1673
+                    ],
+                    [
+                        1880,
+                        1721
+                    ],
+                    [
+                        1864,
+                        1748
+                    ],
+                    [
+                        1841,
+                        1765
+                    ],
+                    [
+                        1815,
+                        1805
+                    ],
+                    [
+                        1789,
+                        1812
+                    ],
+                    [
+                        1699,
+                        1790
+                    ],
+                    [
+                        1647,
+                        1765
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538028,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:03:04.364Z",
+            "updatedAt": "2025-10-29T21:04:18.347Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        8
+                    ],
+                    [
+                        101,
+                        8
+                    ],
+                    [
+                        3839,
+                        5
+                    ],
+                    [
+                        3830,
+                        1532
+                    ],
+                    [
+                        3368,
+                        1523
+                    ],
+                    [
+                        3055,
+                        1461
+                    ],
+                    [
+                        2733,
+                        1397
+                    ],
+                    [
+                        2640,
+                        1350
+                    ],
+                    [
+                        2505,
+                        1379
+                    ],
+                    [
+                        2369,
+                        1356
+                    ],
+                    [
+                        2123,
+                        1329
+                    ],
+                    [
+                        1955,
+                        1304
+                    ],
+                    [
+                        1812,
+                        1290
+                    ],
+                    [
+                        1582,
+                        1274
+                    ],
+                    [
+                        1345,
+                        1322
+                    ],
+                    [
+                        1054,
+                        1388
+                    ],
+                    [
+                        836,
+                        1479
+                    ],
+                    [
+                        5,
+                        1496
+                    ],
+                    [
+                        7,
+                        656
+                    ],
+                    [
+                        5,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538029,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:04:40.797Z",
+            "updatedAt": "2025-11-19T22:04:43.571Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        2600
+                    ],
+                    [
+                        159,
+                        2551
+                    ],
+                    [
+                        469,
+                        2486
+                    ],
+                    [
+                        853,
+                        2359
+                    ],
+                    [
+                        1101,
+                        2251
+                    ],
+                    [
+                        1329,
+                        2180
+                    ],
+                    [
+                        1593,
+                        2101
+                    ],
+                    [
+                        2006,
+                        1991
+                    ],
+                    [
+                        2554,
+                        1847
+                    ],
+                    [
+                        2970,
+                        1733
+                    ],
+                    [
+                        3101,
+                        1626
+                    ],
+                    [
+                        3205,
+                        1580
+                    ],
+                    [
+                        3837,
+                        1577
+                    ],
+                    [
+                        3830,
+                        3059
+                    ],
+                    [
+                        10,
+                        3056
+                    ],
+                    [
+                        16,
+                        2603
+                    ]
+                ],
+                "interior": [
+                    [
+                        [
+                            3213,
+                            2873
+                        ],
+                        [
+                            3560,
+                            2873
+                        ],
+                        [
+                            3557,
+                            2961
+                        ],
+                        [
+                            3213,
+                            2963
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": 1740538030,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:05:33.662Z",
+            "updatedAt": "2025-10-29T21:05:46.531Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        1430,
+                        1316
+                    ],
+                    [
+                        1401,
+                        1376
+                    ],
+                    [
+                        1391,
+                        1431
+                    ],
+                    [
+                        1449,
+                        1516
+                    ],
+                    [
+                        1593,
+                        1477
+                    ],
+                    [
+                        1739,
+                        1450
+                    ],
+                    [
+                        1855,
+                        1429
+                    ],
+                    [
+                        1917,
+                        1451
+                    ],
+                    [
+                        2019,
+                        1431
+                    ],
+                    [
+                        2057,
+                        1329
+                    ],
+                    [
+                        1591,
+                        1289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538031,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:05:51.940Z",
+            "updatedAt": "2025-10-29T21:06:08.484Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        2075,
+                        1344
+                    ],
+                    [
+                        2152,
+                        1353
+                    ],
+                    [
+                        2238,
+                        1367
+                    ],
+                    [
+                        2383,
+                        1383
+                    ],
+                    [
+                        2522,
+                        1419
+                    ],
+                    [
+                        2591,
+                        1380
+                    ],
+                    [
+                        2679,
+                        1390
+                    ],
+                    [
+                        2736,
+                        1450
+                    ],
+                    [
+                        2747,
+                        1774
+                    ],
+                    [
+                        2028,
+                        1976
+                    ],
+                    [
+                        1863,
+                        1794
+                    ],
+                    [
+                        1941,
+                        1511
+                    ],
+                    [
+                        2025,
+                        1457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740538032,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T21:06:22.224Z",
+            "updatedAt": "2025-10-29T21:06:35.773Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        1521
+                    ],
+                    [
+                        381,
+                        1513
+                    ],
+                    [
+                        718,
+                        1513
+                    ],
+                    [
+                        999,
+                        1485
+                    ],
+                    [
+                        1137,
+                        1476
+                    ],
+                    [
+                        1116,
+                        1597
+                    ],
+                    [
+                        1285,
+                        1630
+                    ],
+                    [
+                        1359,
+                        1585
+                    ],
+                    [
+                        1407,
+                        1635
+                    ],
+                    [
+                        1518,
+                        1726
+                    ],
+                    [
+                        1624,
+                        1741
+                    ],
+                    [
+                        1713,
+                        1836
+                    ],
+                    [
+                        1839,
+                        1847
+                    ],
+                    [
+                        1987,
+                        1962
+                    ],
+                    [
+                        118,
+                        2512
+                    ],
+                    [
+                        17,
+                        2527
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

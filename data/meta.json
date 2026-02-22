@@ -1,0 +1,170 @@
+{
+    "classes": [
+        {
+            "title": "Bivalves",
+            "description": "",
+            "shape": "any",
+            "color": "#FFC705",
+            "geometry_config": {},
+            "id": 14151159,
+            "hotkey": ""
+        },
+        {
+            "title": "Micrite",
+            "description": "",
+            "shape": "any",
+            "color": "#07EC7B",
+            "geometry_config": {},
+            "id": 14151160,
+            "hotkey": ""
+        },
+        {
+            "title": "Cement",
+            "description": "",
+            "shape": "any",
+            "color": "#DB00FF",
+            "geometry_config": {},
+            "id": 14151161,
+            "hotkey": ""
+        },
+        {
+            "title": "Echinoderms",
+            "description": "",
+            "shape": "any",
+            "color": "#FF2D00",
+            "geometry_config": {},
+            "id": 14151162,
+            "hotkey": ""
+        },
+        {
+            "title": "Foraminifera",
+            "description": "",
+            "shape": "any",
+            "color": "#DBFF00",
+            "geometry_config": {},
+            "id": 14151163,
+            "hotkey": ""
+        },
+        {
+            "title": "Calcareous Algae",
+            "description": "",
+            "shape": "any",
+            "color": "#FF03D6",
+            "geometry_config": {},
+            "id": 14151164,
+            "hotkey": ""
+        },
+        {
+            "title": "Peloid",
+            "description": "",
+            "shape": "any",
+            "color": "#00EEC4",
+            "geometry_config": {},
+            "id": 14151165,
+            "hotkey": ""
+        },
+        {
+            "title": "Unid biota",
+            "description": "",
+            "shape": "any",
+            "color": "#010AFE",
+            "geometry_config": {},
+            "id": 14151166,
+            "hotkey": ""
+        },
+        {
+            "title": "Ooid",
+            "description": "",
+            "shape": "any",
+            "color": "#FF03D6",
+            "geometry_config": {},
+            "id": 14151167,
+            "hotkey": ""
+        },
+        {
+            "title": "Gastropods",
+            "description": "",
+            "shape": "any",
+            "color": "#07EC7B",
+            "geometry_config": {},
+            "id": 14151168,
+            "hotkey": ""
+        },
+        {
+            "title": "Scale Bar",
+            "description": "",
+            "shape": "any",
+            "color": "#530F8A",
+            "geometry_config": {},
+            "id": 14151170,
+            "hotkey": ""
+        },
+        {
+            "title": "Mollusk",
+            "description": "",
+            "shape": "any",
+            "color": "#0F5D8A",
+            "geometry_config": {},
+            "id": 14151171,
+            "hotkey": ""
+        },
+        {
+            "title": "Ostracod",
+            "description": "",
+            "shape": "any",
+            "color": "#9E000B",
+            "geometry_config": {},
+            "id": 14151172,
+            "hotkey": ""
+        },
+        {
+            "title": "Aggregate Grain",
+            "description": "",
+            "shape": "polygon",
+            "color": "#EEF0F2",
+            "geometry_config": {},
+            "id": 14245482,
+            "hotkey": ""
+        },
+        {
+            "title": "Brachiopod",
+            "description": "",
+            "shape": "any",
+            "color": "#FDFF05",
+            "geometry_config": {},
+            "id": 14223127,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "train",
+            "value_type": "none",
+            "color": "#2341AF",
+            "id": 32899730,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Ardi",
+            "value_type": "none",
+            "color": "#D2142A",
+            "id": 32899731,
+            "hotkey": "",
+            "applicable_type": "imagesOnly",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}

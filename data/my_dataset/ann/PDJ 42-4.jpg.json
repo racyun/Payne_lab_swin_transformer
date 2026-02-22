@@ -1,0 +1,499 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1920,
+        "width": 2560
+    },
+    "objects": [
+        {
+            "id": 1740538260,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T21:20:43.530Z",
+            "updatedAt": "2025-11-19T21:20:43.530Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "points": {
+                "exterior": [
+                    [
+                        1506,
+                        1806
+                    ],
+                    [
+                        1790,
+                        1893
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750640168,
+            "classId": 14151159,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2025-12-16T22:57:49.912Z",
+            "updatedAt": "2025-12-16T22:58:28.553Z",
+            "tags": [],
+            "classTitle": "Bivalves",
+            "points": {
+                "exterior": [
+                    [
+                        1611,
+                        689
+                    ],
+                    [
+                        1648,
+                        668
+                    ],
+                    [
+                        1672,
+                        675
+                    ],
+                    [
+                        1729,
+                        662
+                    ],
+                    [
+                        1746,
+                        604
+                    ],
+                    [
+                        1732,
+                        571
+                    ],
+                    [
+                        1759,
+                        544
+                    ],
+                    [
+                        1717,
+                        586
+                    ],
+                    [
+                        1702,
+                        628
+                    ],
+                    [
+                        1676,
+                        646
+                    ],
+                    [
+                        1651,
+                        647
+                    ],
+                    [
+                        1624,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1751547744,
+            "classId": 14151166,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2025-12-18T19:04:19.652Z",
+            "updatedAt": "2025-12-18T19:04:41.792Z",
+            "tags": [],
+            "classTitle": "Unid biota",
+            "points": {
+                "exterior": [
+                    [
+                        1947,
+                        804
+                    ],
+                    [
+                        1980,
+                        792
+                    ],
+                    [
+                        1996,
+                        768
+                    ],
+                    [
+                        2008,
+                        746
+                    ],
+                    [
+                        2015,
+                        714
+                    ],
+                    [
+                        2001,
+                        733
+                    ],
+                    [
+                        1987,
+                        733
+                    ],
+                    [
+                        1975,
+                        723
+                    ],
+                    [
+                        1975,
+                        707
+                    ],
+                    [
+                        1947,
+                        751
+                    ],
+                    [
+                        1937,
+                        770
+                    ],
+                    [
+                        1942,
+                        788
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1757931652,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-28T20:14:26.407Z",
+            "updatedAt": "2026-01-28T20:15:26.815Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        1928,
+                        769
+                    ],
+                    [
+                        1975,
+                        707
+                    ],
+                    [
+                        1975,
+                        707
+                    ],
+                    [
+                        1975,
+                        723
+                    ],
+                    [
+                        1975,
+                        723
+                    ],
+                    [
+                        1987,
+                        733
+                    ],
+                    [
+                        1987,
+                        733
+                    ],
+                    [
+                        2001,
+                        733
+                    ],
+                    [
+                        2001,
+                        733
+                    ],
+                    [
+                        2015,
+                        714
+                    ],
+                    [
+                        2015,
+                        714
+                    ],
+                    [
+                        2008,
+                        746
+                    ],
+                    [
+                        2008,
+                        746
+                    ],
+                    [
+                        1996,
+                        768
+                    ],
+                    [
+                        1980,
+                        792
+                    ],
+                    [
+                        1980,
+                        792
+                    ],
+                    [
+                        1947,
+                        804
+                    ],
+                    [
+                        1791,
+                        1801
+                    ],
+                    [
+                        1791,
+                        1919
+                    ],
+                    [
+                        2559,
+                        1919
+                    ],
+                    [
+                        1889,
+                        0
+                    ],
+                    [
+                        1609,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1757932193,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-28T20:15:54.533Z",
+            "updatedAt": "2026-01-28T20:15:54.533Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        1891,
+                        0
+                    ],
+                    [
+                        2559,
+                        0
+                    ],
+                    [
+                        2559,
+                        1919
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1757932324,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-28T20:16:20.043Z",
+            "updatedAt": "2026-01-28T20:16:40.714Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        1759,
+                        546
+                    ],
+                    [
+                        1609,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        1919
+                    ],
+                    [
+                        1611,
+                        689
+                    ],
+                    [
+                        1611,
+                        689
+                    ],
+                    [
+                        1624,
+                        664
+                    ],
+                    [
+                        1624,
+                        664
+                    ],
+                    [
+                        1651,
+                        647
+                    ],
+                    [
+                        1651,
+                        647
+                    ],
+                    [
+                        1676,
+                        646
+                    ],
+                    [
+                        1676,
+                        646
+                    ],
+                    [
+                        1702,
+                        628
+                    ],
+                    [
+                        1702,
+                        628
+                    ],
+                    [
+                        1717,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1757932573,
+            "classId": 14151161,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "hw1",
+            "createdAt": "2026-01-28T20:17:02.362Z",
+            "updatedAt": "2026-01-28T20:17:53.171Z",
+            "tags": [],
+            "classTitle": "Cement",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1919
+                    ],
+                    [
+                        1611,
+                        689
+                    ],
+                    [
+                        1611,
+                        689
+                    ],
+                    [
+                        1648,
+                        668
+                    ],
+                    [
+                        1648,
+                        668
+                    ],
+                    [
+                        1672,
+                        675
+                    ],
+                    [
+                        1672,
+                        675
+                    ],
+                    [
+                        1729,
+                        662
+                    ],
+                    [
+                        1729,
+                        662
+                    ],
+                    [
+                        1746,
+                        604
+                    ],
+                    [
+                        1746,
+                        604
+                    ],
+                    [
+                        1732,
+                        571
+                    ],
+                    [
+                        1759,
+                        546
+                    ],
+                    [
+                        1609,
+                        0
+                    ],
+                    [
+                        1609,
+                        0
+                    ],
+                    [
+                        1928,
+                        769
+                    ],
+                    [
+                        1937,
+                        770
+                    ],
+                    [
+                        1937,
+                        770
+                    ],
+                    [
+                        1942,
+                        788
+                    ],
+                    [
+                        1947,
+                        804
+                    ],
+                    [
+                        1791,
+                        1801
+                    ],
+                    [
+                        1500,
+                        1801
+                    ],
+                    [
+                        1502,
+                        1919
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

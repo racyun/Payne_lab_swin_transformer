@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 174820049,
+            "tagId": 32899730,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-11-19T21:09:05.462Z",
+            "updatedAt": "2025-11-19T21:09:05.462Z"
+        }
+    ],
+    "size": {
+        "height": 3072,
+        "width": 3840
+    },
+    "objects": [
+        {
+            "id": 1740537991,
+            "classId": 14151170,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "edward",
+            "createdAt": "2025-05-03T08:24:15.776Z",
+            "updatedAt": "2025-05-03T08:24:15.776Z",
+            "tags": [],
+            "classTitle": "Scale Bar",
+            "smartToolInput": {
+                "crop": [
+                    [
+                        3198,
+                        2825
+                    ],
+                    [
+                        3639,
+                        2993
+                    ]
+                ],
+                "visible": true,
+                "negative": [],
+                "positive": [
+                    [
+                        3533,
+                        2890
+                    ],
+                    [
+                        3410,
+                        2914
+                    ]
+                ]
+            },
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgDASyvRiZgaTFva9vgRRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE56p4ujiEVc96eWsjIwMDBvGDuu+e/DjUJGt2MunS/MPZ6KRj93cUev8hWMO/j4olALQyern4u65wSmgBNRCw1",
+                "origin": [
+                    3268,
+                    2873
+                ]
+            }
+        },
+        {
+            "id": 1740537992,
+            "classId": 14151160,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "nnCreated": false,
+            "nnUpdated": false,
+            "labelerLogin": "ps33",
+            "createdAt": "2025-10-29T20:23:18.056Z",
+            "updatedAt": "2025-11-19T22:13:31.682Z",
+            "tags": [],
+            "classTitle": "Micrite",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        3837,
+                        2861
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
