@@ -33,12 +33,12 @@ import matplotlib.pyplot as plt
 from torchvision.io import read_image
 
 # Where to save the filled masks
-out_mask_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/micrite_and_cement_adjusted_masks")
+out_mask_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/micrite_and_cement_adjusted_masks")
 out_mask_dir.mkdir(parents=True, exist_ok=True)
 
 # --- Directories ---
-image_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/img")
-mask_dir  = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/masks_machine")
+image_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/img")
+mask_dir  = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/masks_machine")
 
 IMG_EXTS = {".jpg", ".jpeg", ".png"}
 

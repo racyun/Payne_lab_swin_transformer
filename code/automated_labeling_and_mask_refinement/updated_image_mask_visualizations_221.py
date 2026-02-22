@@ -30,11 +30,11 @@ import matplotlib.pyplot as plt
 from torchvision.io import read_image
 
 # --- Directories ---
-image_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/img")
-mask_dir  = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/masks_machine")
+image_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/img")
+mask_dir  = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/masks_machine")
 
-adjusted_version1_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/micrite_adjusted_masks")
-adjusted_version2_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/petrographic_labelled_dataset/my_dataset/micrite_and_cement_adjusted_masks")
+adjusted_version1_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/micrite_adjusted_masks")
+adjusted_version2_dir = Path("/content/drive/My Drive/carbonate_imgs_and_masks/my_dataset/micrite_and_cement_adjusted_masks")
 
 IMG_EXTS = {".jpg", ".jpeg", ".png"}
 MASK_EXTS = {".png", ".jpg", ".jpeg"}  # adjust if needed
